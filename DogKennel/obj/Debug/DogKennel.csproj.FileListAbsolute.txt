@@ -1,0 +1,7 @@
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\bin\Debug\DogKennel.exe.config
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\bin\Debug\DogKennel.exe
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\bin\Debug\DogKennel.pdb
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\obj\Debug\DogKennel.csprojResolveAssemblyReference.cache
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\obj\Debug\DogKennel.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\obj\Debug\DogKennel.exe
+C:\Users\Sydney\source\repos\DogKennel\DogKennel\obj\Debug\DogKennel.pdb
